@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "V": "break",
+    "V2": "broke",
+    "V3": "broken",
+    "Tr": "ламати, розбивати"
+  },
+  {
+    "id": 2,
+    "V": "wake",
+    "V2": "woke",
+    "V3": "woken",
+    "Tr": "прокидатися, вставати"
+  },
+  { "id": 3, "V": "speak", "V2": "spoke", "V3": "spoken", "Tr": "говорити" },
+  { "id": 4, "V": "choose", "V2": "chose", "V3": "chosen", "Tr": "вибирати" },
+  { "id": 5, "V": "steal", "V2": "stole", "V3": "stolen", "Tr": "красти" },
+  {
+    "id": 7,
+    "V": "freeze",
+    "V2": "froze",
+    "V3": "frozen",
+    "Tr": "заморожувати"
+  },
+
+  { "id": 8, "V": "blow", "V2": "blew", "V3": "blown", "Tr": "дмухати" },
+  { "id": 9, "V": "grow", "V2": "grew", "V3": "grown", "Tr": "рости" },
+  { "id": 10, "V": "know", "V2": "knew", "V3": "known", "Tr": "знати" },
+  { "id": 11, "V": "throw", "V2": "threw", "V3": "thrown", "Tr": "кидати" },
+  { "id": 12, "V": "fly", "V2": "flew", "V3": "flown", "Tr": "літати" },
+  { "id": 13, "V": "draw", "V2": "drew", "V3": "drawn", "Tr": "малювати" },
+  { "id": 14, "V": "lie", "V2": "lay", "V3": "lain", "Tr": "лежати" },
+  { "id": 15, "V": "show", "V2": "showed", "V3": "shown", "Tr": "показувати" },
+  { "id": 16, "V": "sew", "V2": "sewed", "V3": "sewn", "Tr": "шити" },
+
+  {
+    "id": 17,
+    "V": "bring",
+    "V2": "brought",
+    "V3": "brought",
+    "Tr": "приносити"
+  },
+  { "id": 18, "V": "buy", "V2": "bought", "V3": "bought", "Tr": "купувати" },
+  { "id": 19, "V": "fight", "V2": "fought", "V3": "fought", "Tr": "битися" },
+  { "id": 20, "V": "think", "V2": "thought", "V3": "thought", "Tr": "думати" },
+  { "id": 21, "V": "catch", "V2": "caught", "V3": "caught", "Tr": "ловити" },
+  { "id": 22, "V": "teach", "V2": "taught", "V3": "taught", "Tr": "вчити" },
+
+  { "id": 23, "V": "drive", "V2": "drove", "V3": "driven", "Tr": "їхати" },
+  { "id": 24, "V": "rise", "V2": "rose", "V3": "risen", "Tr": "підніматися" },
+  { "id": 25, "V": "ride", "V2": "rode", "V3": "ridden", "Tr": "кататися" },
+  { "id": 26, "V": "write", "V2": "wrote", "V3": "written", "Tr": "писати" },
+  { "id": 27, "V": "bite", "V2": "bit", "V3": "bitten", "Tr": "кусати" },
+  { "id": 28, "V": "hide", "V2": "hid", "V3": "hidden", "Tr": "приховувати" },
+  { "id": 29, "V": "beat", "V2": "beat", "V3": "bitten", "Tr": "бити" },
+  { "id": 30, "V": "give", "V2": "gave", "V3": "given", "Tr": "давати" },
+  { "id": 31, "V": "eat", "V2": "ate", "V3": "eaten", "Tr": "їсти" },
+  { "id": 32, "V": "fall", "V2": "fell", "V3": "fallen", "Tr": "падати" },
+  { "id": 33, "V": "shake", "V2": "shook", "V3": "shaken", "Tr": "трусити" },
+  { "id": 34, "V": "take", "V2": "took", "V3": "taken", "Tr": "давати" },
+
+  { "id": 35, "V": "keep", "V2": "kept", "V3": "kept", "Tr": "тримати" },
+  { "id": 36, "V": "sleep", "V2": "slept", "V3": "slept", "Tr": "спати" },
+  { "id": 37, "V": "sweep", "V2": "swept", "V3": "swept", "Tr": "підмітати" },
+  { "id": 38, "V": "weep", "V2": "wept", "V3": "wept", "Tr": "плакати" },
+  { "id": 39, "V": "creep", "V2": "crept", "V3": "crept", "Tr": "повзати" },
+  {
+    "id": 40,
+    "V": "kneel",
+    "V2": "knelt",
+    "V3": "knelt",
+    "Tr": "ставати на коліна"
+  },
+  { "id": 41, "V": "feel", "V2": "felt", "V3": "felt", "Tr": "відчувати" },
+  { "id": 42, "V": "leave", "V2": "left", "V3": "left", "Tr": "залишати" },
+  { "id": 43, "V": "lose", "V2": "lost", "V3": "lost", "Tr": "втрачати" },
+
+  { "id": 44, "V": "be", "V2": "was/were", "V3": "been", "Tr": "бути" },
+  { "id": 45, "V": "go", "V2": "went", "V3": "gone/been to", "Tr": "йти" },
+  { "id": 46, "V": "do", "V2": "did", "V3": "done", "Tr": "робити" },
+  { "id": 47, "V": "see", "V2": "saw", "V3": "seen", "Tr": "бачити" },
+
+  { "id": 48, "V": "send", "V2": "sent", "V3": "sent", "Tr": "надсилати" },
+  { "id": 49, "V": "spend", "V2": "spent", "V3": "spent", "Tr": "витрачати" },
+  { "id": 50, "V": "bend", "V2": "bent", "V3": "bent", "Tr": "згинати" },
+  { "id": 51, "V": "lend", "V2": "lent", "V3": "lent", "Tr": "позичати" },
+  {
+    "id": 52,
+    "V": "mean",
+    "V2": "meant",
+    "V3": "meant",
+    "Tr": "мати на увазі"
+  },
+  { "id": 53, "V": "build", "V2": "built", "V3": "built", "Tr": "будувати" },
+
+  { "id": 54, "V": "stand", "V2": "stood", "V3": "stood", "Tr": "стояти" },
+  {
+    "id": 55,
+    "V": "understand",
+    "V2": "understood",
+    "V3": "understood",
+    "Tr": "розуміти"
+  },
+  { "id": 56, "V": "tell", "V2": "told", "V3": "told", "Tr": "казати" },
+  { "id": 57, "V": "sell", "V2": "sold", "V3": "sold", "Tr": "продати" },
+
+  {
+    "id": 58,
+    "V": "say",
+    "V2": "said/sed",
+    "V3": "said/sed",
+    "Tr": "говорити"
+  },
+  { "id": 59, "V": "pay", "V2": "paid", "V3": "paid", "Tr": "платити" },
+  { "id": 60, "V": "lay", "V2": "laid", "V3": "laid", "Tr": "класти" },
+
+  { "id": 61, "V": "swear", "V2": "swore", "V3": "sworn", "Tr": "присягати" },
+  { "id": 62, "V": "tear", "V2": "tore", "V3": "torn", "Tr": "рвати" },
+  { "id": 63, "V": "wear", "V2": "wore", "V3": "worn", "Tr": "носити" },
+
+  { "id": 64, "V": "bet", "V2": "bet", "V3": "bet", "Tr": "робити ставку" },
+  { "id": 65, "V": "split", "V2": "split", "V3": "split", "Tr": "розколоти" },
+  { "id": 66, "V": "cost", "V2": "cost", "V3": "cost", "Tr": "вартуватит" },
+  { "id": 67, "V": "cut", "V2": "cut", "V3": "cut", "Tr": "вирізати" },
+  { "id": 68, "V": "hit", "V2": "hit", "V3": "hit", "Tr": "вдарити" },
+  { "id": 69, "V": "knit", "V2": "knit", "V3": "knit", "Tr": "в'язати" },
+  { "id": 70, "V": "let", "V2": "let", "V3": "let", "Tr": "дозволяти" },
+  { "id": 71, "V": "shut", "V2": "shut", "V3": "shut", "Tr": "закривати" },
+  { "id": 72, "V": "set", "V2": "set", "V3": "set", "Tr": "встановлювати" },
+  { "id": 73, "V": "hurt", "V2": "hurt", "V3": "hurt", "Tr": "боліти" },
+  {
+    "id": 74,
+    "V": "broadcast",
+    "V2": "broadcast",
+    "V3": "broadcast",
+    "Tr": "транслювати"
+  },
+
+  { "id": 75, "V": "find", "V2": "found", "V3": "found", "Tr": "знаходити" },
+  { "id": 76, "V": "make", "V2": "made", "V3": "made", "Tr": "робити" },
+  { "id": 77, "V": "have", "V2": "had", "V3": "had", "Tr": "мати" },
+  { "id": 78, "V": "sit", "V2": "sat", "V3": "sat", "Tr": "сидіти" },
+  {
+    "id": 79,
+    "V": "strike",
+    "V2": "struck",
+    "V3": "struck",
+    "Tr": "страйкувати"
+  },
+  { "id": 80, "V": "dig", "V2": "dug", "V3": "dug", "Tr": "копати" },
+  { "id": 81, "V": "spin", "V2": "spun", "V3": "spun", "Tr": "крутити" },
+  { "id": 82, "V": "sting", "V2": "stung", "V3": "stung", "Tr": "жалити" },
+  {
+    "id": 83,
+    "V": "stick",
+    "V2": "stuck",
+    "V3": "stuck",
+    "Tr": "дотримуватися"
+  },
+  { "id": 84, "V": "hang", "V2": "hung", "V3": "hung", "Tr": "вішати" },
+
+  { "id": 85, "V": "lead", "V2": "led", "V3": "led", "Tr": "вести" },
+  { "id": 86, "V": "feed", "V2": "fed", "V3": "fed", "Tr": "годувати" },
+  { "id": 87, "V": "meet", "V2": "met", "V3": "met", "Tr": "зустрічатися" },
+  { "id": 88, "V": "read", "V2": "read/red", "V3": "read/red", "Tr": "читати" },
+  { "id": 89, "V": "hold", "V2": "held", "V3": "held", "Tr": "утримувати" },
+  { "id": 90, "V": "slide", "V2": "slid", "V3": "slid", "Tr": "ковзати" },
+  { "id": 91, "V": "light", "V2": "lit", "V3": "lit", "Tr": "запалювати" },
+
+  { "id": 92, "V": "begin", "V2": "began", "V3": "begun", "Tr": "починати" },
+  { "id": 93, "V": "ring", "V2": "rang", "V3": "rung", "Tr": "дзвонити" },
+  { "id": 94, "V": "sing", "V2": "sang", "V3": "sung", "Tr": "співати" },
+  { "id": 95, "V": "sink", "V2": "sank", "V3": "sunk", "Tr": "тонути" },
+  { "id": 96, "V": "drink", "V2": "drank", "V3": "drunk", "Tr": "пити" },
+  {
+    "id": 97,
+    "V": "shrink",
+    "V2": "shrank",
+    "V3": "shrunk",
+    "Tr": "зменшуватися"
+  },
+  { "id": 98, "V": "swim", "V2": "swam", "V3": "swum", "Tr": "плавати" },
+
+  { "id": 99, "V": "come", "V2": "came", "V3": "come", "Tr": "приходити" },
+  {
+    "id": 100,
+    "V": "become",
+    "V2": "became",
+    "V3": "become",
+    "Tr": "становитися"
+  },
+  { "id": 101, "V": "run", "V2": "ran", "V3": "run", "Tr": "бігти" },
+
+  { "id": 102, "V": "hear", "V2": "heard", "V3": "heard", "Tr": "чути" },
+  { "id": 103, "V": "learn", "V2": "lernt", "V3": "lernt", "Tr": "вчитися" },
+  { "id": 104, "V": "burn", "V2": "burnt", "V3": "burnt", "Tr": "горіти" },
+  { "id": 105, "V": "get", "V2": "got", "V3": "got", "Tr": "отримувати" },
+  { "id": 106, "V": "win", "V2": "won", "V3": "won", "Tr": "перемагати" },
+  {
+    "id": 107,
+    "V": "forget",
+    "V2": "forgot",
+    "V3": "forgotten",
+    "Tr": "забувати"
+  }
+]
