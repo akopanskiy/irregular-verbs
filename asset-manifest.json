@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/irregular-verbs/static/css/main.96a4fb11.chunk.css",
+    "main.js": "/irregular-verbs/static/js/main.a46c5a6d.chunk.js",
+    "main.js.map": "/irregular-verbs/static/js/main.a46c5a6d.chunk.js.map",
+    "runtime-main.js": "/irregular-verbs/static/js/runtime-main.29f8beca.js",
+    "runtime-main.js.map": "/irregular-verbs/static/js/runtime-main.29f8beca.js.map",
+    "static/js/2.92f5520d.chunk.js": "/irregular-verbs/static/js/2.92f5520d.chunk.js",
+    "static/js/2.92f5520d.chunk.js.map": "/irregular-verbs/static/js/2.92f5520d.chunk.js.map",
+    "index.html": "/irregular-verbs/index.html",
+    "static/css/main.96a4fb11.chunk.css.map": "/irregular-verbs/static/css/main.96a4fb11.chunk.css.map",
+    "static/js/2.92f5520d.chunk.js.LICENSE.txt": "/irregular-verbs/static/js/2.92f5520d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f8beca.js",
+    "static/js/2.92f5520d.chunk.js",
+    "static/css/main.96a4fb11.chunk.css",
+    "static/js/main.a46c5a6d.chunk.js"
+  ]
+}
