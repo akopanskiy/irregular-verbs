@@ -73,7 +73,7 @@ class App extends Component {
                   backgroundColor:
                     secondForm === ''
                       ? 'yellow'
-                      : secondForm === secondverb
+                      : secondForm === secondverb.toLowerCase()
                       ? 'green'
                       : 'red',
                 }}
@@ -97,7 +97,7 @@ class App extends Component {
                   backgroundColor:
                     thirdForm === ''
                       ? 'yellow'
-                      : thirdForm === thirdverb
+                      : thirdForm === thirdverb.toLowerCase()
                       ? 'green'
                       : 'red',
                 }}
